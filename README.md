@@ -1,6 +1,5 @@
 # answermachine
 Simple Voicemail with multiple options made using Javascript and PHP
-![this](https://media.discordapp.net/attachments/454766646590963722/458747594286432264/nvJxu4UDCSMAAAAABJRU5ErkJggg.png)
 # How to
 You need two things:
 1. A Tropo Account (www.tropo.com)
